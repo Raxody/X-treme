@@ -21,7 +21,7 @@
 
 			<div class="col-sm-2">
 				
-					<label for="email">Cedula:</label>
+					<label for="email">SE CAMBIO:</label>
 				
 			</div>
 
