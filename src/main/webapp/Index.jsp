@@ -21,7 +21,7 @@
 					<div class="container-fluid">
 
 						<span class="navbar-brand mb-0 h1"
-							style="position: absolute; left: 45%;">SE CAMBIO</span>
+							style="position: absolute; left: 45%;">X-TREME</span>
 
 					</div>
 				</nav>
