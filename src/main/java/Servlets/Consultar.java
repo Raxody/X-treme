@@ -37,6 +37,8 @@ public class Consultar extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		
 		String ced = request.getParameter("cedula");
 		if(ced.isEmpty()!= true ) {
 			
