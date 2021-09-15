@@ -21,7 +21,7 @@
 
 			<div class="col-sm-2">
 				
-					<label for="email">SE CAMBIO DE NUEVO:</label>
+					<label for="email">Se cambio</label>
 				
 			</div>
 
